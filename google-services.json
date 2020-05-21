@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "888536480911",
+    "firebase_url": "https://coffeland-583b8.firebaseio.com",
+    "project_id": "coffeland-583b8",
+    "storage_bucket": "coffeland-583b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888536480911:android:efa9be71306398cfde84fa",
+        "android_client_info": {
+          "package_name": "ua.com.gunshop.coffeland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888536480911-gob5glmp0l8n5cfrke61ps0ij7ooi819.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUcn4B-wK_5fJ3ov-9JBRMih_HpAUhYDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888536480911-gob5glmp0l8n5cfrke61ps0ij7ooi819.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
